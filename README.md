@@ -1,9 +1,11 @@
 # Top-10-BCA-Final-Year-Projects-
 The top 10 BCA final year projects include Code, Documents And Video Tutorial 
 
+![top 10 BCA thumnail](https://github.com/user-attachments/assets/3e2419d8-352f-4219-a3ce-b546479671c5)
+
 ## Youtube Link: https://youtu.be/L6mWPcIoNu4?si=RpHugTJ52v1mvT8a
 
-## Top 10 BCA Final Year Projects
+## Top 10 BCA Final Year Projects link
 1. UPI Fraud Detection               :https://youtu.be/uzVdxlG1gIY?si=0RW3nMAHueOHlsUR
 3. Rainfall Prediction System        :https://youtu.be/RrMOFPkBg5k?si=u5AYquFGsTDtpHE_
 4. Real Estate Purchasing Prediction :https://youtu.be/bsCIo_bg4UY?si=X0thJlwK-BnF3WtB
